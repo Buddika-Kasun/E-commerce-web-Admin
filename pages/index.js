@@ -38,6 +38,11 @@ export default function Home() {
           <div>pakaya</div>
           <div>pakaya</div>
           <div>pakaya</div>
+          <div>pakaya</div>
+          <div>pakaya</div>
+          <div>pakaya</div>
+          <div>pakaya</div>
+          <div>pakaya</div>
           <div>
             <button onClick={() => {signIn('google')}} className="bg-white p-2 px-4 rounded-lg">Sign in</button>
           </div>
