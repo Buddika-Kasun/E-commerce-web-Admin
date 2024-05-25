@@ -33,7 +33,6 @@ export default function Home() {
       return(
         <div className="bg-blue-950 w-screen h-screen flex flex-col items-center justify-between">
           <div className="text-white pt-20 dis">Welcome to Suppliment Store<br/>Admin</div>
-          <div>pakaya</div>
           <div>
             <button onClick={() => {signIn('google')}} className="bg-white p-2 px-4 rounded-lg">Sign in</button>
           </div>
