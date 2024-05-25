@@ -38,6 +38,7 @@ export default function Home() {
             <button onClick={() => {signIn('google')}} className="bg-white p-2 px-4 rounded-lg">Sign in</button>
           </div>
           <div className="text-white pb-5">Developed By Cyber Shock.</div>
+          <div>pakaya</div>
         </div>
       );
     }
